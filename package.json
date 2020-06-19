@@ -1,0 +1,22 @@
+{
+  "name": "electron-app-test",
+  "version": "1.0.0",
+  "description": "Testing ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngehani/electron-app-test.git"
+  },
+  "author": "Neil Gehani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngehani/electron-app-test/issues"
+  },
+  "homepage": "https://github.com/ngehani/electron-app-test#readme",
+  "devDependencies": {
+    "electron": "^9.0.4"
+  }
+}
