@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ngehani/electron-app-test#readme",
   "devDependencies": {
-    "electron": "^9.0.4"
+    "electron": "^9.4.0"
   }
 }
